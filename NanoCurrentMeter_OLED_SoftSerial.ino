@@ -1,6 +1,4 @@
 /* ATtiny85 NanoCurrent Meter with OLED
- *  Instructables: https://www.instructables.com/ATtiny85-NanoCurrent-Meter-With-OLED-Display/
- *  By: JD_K
 
 Inspired by
    David Johnson-Davies - www.technoblogy.com - 9th October 2019
