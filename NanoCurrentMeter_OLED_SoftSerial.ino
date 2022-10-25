@@ -1,8 +1,8 @@
 /* ATtiny85 NanoCurrentMeter 
-
+*/
 #include <TinyOzOLED_decimalFix.h> 
 #define voltSwitchPin 1
-*/
+
 #include <SoftwareSerial.h> // bu kütüphane datalogger gibi dış kaynaklı cihazlar ile haberleşme için kullanılabilir
 SoftwareSerial tinySerial(-1, 4); //  tinySerial aygıtının D3 pinin (tx) yapıp RX pinin 1e çekiyoruz*/
 
